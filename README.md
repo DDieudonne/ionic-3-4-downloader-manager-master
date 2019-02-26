@@ -14,7 +14,7 @@ Cordova plugin for downloading files from server.
 3) Si vous avez déjà un dossier <strong> PLUGINS <strong> ajouter le dossier <strong>ionic-3-4-downloader-manager-master<strong> téléchargé au paravant.
 4) Mettez le dossier  <strong>ionic-3-4-downloader-manager-master<strong> dans votre dossier <strong> PLUGINS </strong> de votre projet IONIC.   
 3) Si vous avez déjà BUILD votre apk(ANDROID) ou app(IOS) taper la commande <strong>ionic cordova platform rm android<strong>
-   ou <strong>ionic cordova platform rm android<strong> (dans votre projet IONIC) ,
+   ou <strong>ionic cordova platform rm ios<strong> (dans votre projet IONIC) ,
     Au cas ou ce n'est pas encore faits, Tapez la commande <strong>ionic cordova platform add android<strong> ou <strong>ionic cordova platform add ios<strong>
   ⚠️⚠️  LE dossier PLUGINS s'ajoutera AUTOMATIQUEMENT dans votre Projet IONIC
 4) Ajoutez manuellement <strong>ionic-3-4-downloader-manager-master<strong> 
