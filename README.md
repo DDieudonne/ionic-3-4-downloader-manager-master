@@ -46,7 +46,7 @@ COPIER COLLER LE CODE EN DESSOUS QUI DEMONTRE COMMENT UTILISER LE PLUGIN
 
 
 ⚠️⚠️⚠️⚠️ (si vous avez un problème de ionic-app-scripts taper la commande NPM INSTALL) 
-⚠️⚠️⚠️⚠️ (if you have a ionic-app-scripts promblem run NPM INSTALL) 
+⚠️⚠️⚠️⚠️ (if you have a ionic-app-scripts problem run NPM INSTALL) 
 
 ### Usage Android
 
