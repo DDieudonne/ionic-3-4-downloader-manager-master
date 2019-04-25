@@ -14,7 +14,7 @@ Télécharger le dossier <strong>ionic-3-4-downloader-manager-master<strong> ave
 
 
 ### 2) 
-Dézziper le dossier téléchargé.
+Déziper le dossier téléchargé.
 
 
 ### 3)
